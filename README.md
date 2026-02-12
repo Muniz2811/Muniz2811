@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Pedro Henrique</h1>
 <h3 align="center">Futuro engenheiro de Software pela UNB - FGA</h3>
 
-- 🌱 Atualmente estudando **Oracle,automação de testes, IA e ruby**
-
 - 📫 Entre em contato pelo email: **pedrohenben2009@hotmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
